@@ -39,7 +39,7 @@
 </div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&&theme=tokyonight" alt="Seu nome" /></p>
 
-![Snake animation](https://github.com//cassianomurilo01-ops/blob/output/github-contribution-grid-snake-dark.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cassianomurilo01-ops&&theme=tokyonight" alt="Seu nome" /></p>
 
+![Snake animation](https://github.com/cassianomurilo01-ops/cassianomurilo01-ops/blob/output/github-contribution-grid-snake-dark.svg)
