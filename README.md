@@ -41,5 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&&theme=tokyonight" alt="Seu nome" /></p>
 
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com//cassianomurilo01-ops/blob/output/github-contribution-grid-snake-dark.svg)
 
